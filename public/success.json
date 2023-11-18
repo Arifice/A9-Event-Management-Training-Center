@@ -1,0 +1,66 @@
+[
+    {
+        "id":"1",
+        "name":"Sophia",
+        "img":"https://i.postimg.cc/5tKd35tn/images-14.jpg",
+        "company":"Envi Tech",
+        "details":"I am a dynamic individual and am always looking for new opportunities and challenges."
+    },
+    {
+        "id":"2",
+        "name":"Louis",
+        "img":"https://i.postimg.cc/C5ym6NHM/download.jpg",
+        "company":"FitIT",
+        "details":"I have a lot of enthusiasm for life and am always looking for new opportunities to learn and grow."
+    },
+    {
+        "id":"3",
+        "name":"Olivia",
+        "img":"https://i.postimg.cc/KYwNRNW7/download-1.jpg",
+        "company":"Business Tec",
+        "details":"I am innovative and always looking for new ways to improve current systems or processes."
+    },
+    {
+        "id":"4",
+        "name":"Amelia",
+        "img":"https://i.postimg.cc/m2gHW9XT/download-2.jpg",
+        "company":"ITConsultant",
+        "details":"I am resourceful and excel at finding ways to overcome any obstacle or challenge."
+    },
+    {
+        "id":"5",
+        "name":"Edward ",
+        "img":"https://i.postimg.cc/yYjyFB58/images-3.jpg",
+        "company":"ITSmart",
+        "details":"I am innovative and always looking for new ways to improve current systems or processes."
+    },
+    {
+        "id":"6",
+        "name":"Aria",
+        "img":"https://i.postimg.cc/Z5y0Jxrz/images-4.jpg",
+        "company":"ITGenius",
+        "details":"I am a dynamic individual and am always looking for new opportunities and challenges."
+    },
+    {
+        "id":"7",
+        "name":"Daisy",
+        "img":"https://i.postimg.cc/yNvM5wk1/images-5.jpg",
+        "company":"ITCareer",
+        "details":"I work well in collaborative environments and enjoy teaming up with others to achieve common goals."
+    },
+    {
+        "id":"8",
+        "name":"Jack",
+        "img":"https://i.postimg.cc/Nfxvm9B2/images-7.jpg",
+        "company":"ITAntenna",
+        "details":"I have a creative mind and am able to think outside the box and come up with innovative solutions."
+    },
+    {
+        "id":"9",
+        "name":"Joseph",
+        "img":"https://i.postimg.cc/cHWcRHs6/360-F-299042079-v-GBD7w-Il-Se-Nl7v-Oev-WHi-L93-G4ko-MM967.jpg",
+        "company":"ITEasy",
+        "details":"I am a dynamic individual and am always looking for new opportunities and challenges."
+    }
+    
+]
